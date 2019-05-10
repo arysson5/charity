@@ -1,0 +1,49 @@
+		
+ #nav{
+ 	background-color:#511fb5;
+
+ }
+
+ #text{
+	font-family: cooper black;
+ 	font-size: 60px;
+ 	position: fixed;
+	top: 20%;
+	left: 550;
+ }
+
+ #textD{
+	font-family: arial;
+ 	font-size:20px;
+ 	position: fixed;
+	top:50%;
+	left: 300;
+ }
+
+ #textO{
+	font-family: arial;
+ 	font-size:20px;
+ 	position: fixed;
+	top:50%;
+	left: 900;
+ }
+
+ #doador{
+ 	background-color:#fb5400;
+ 	position: fixed;
+ 	top:40%;
+	left: 400;
+	font-family: arial;
+	font-size: 28px;
+	color:#FFFFFF;
+ }
+#ONG{
+ 	background-color:#511fb5;
+ 	position: fixed;
+ 	top:40%;
+	left: 1000;
+	font-family: arial;
+	font-size: 28px;
+	color:#FFFFFF;
+
+ }
